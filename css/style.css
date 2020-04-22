@@ -1,0 +1,367 @@
+#bg_img
+{
+    height: 500px;
+    width: 100%;
+    
+}
+#title
+{
+    font-size: 50px;
+    color: orangered;
+}
+#tagline
+{
+    font-size: 25px;
+    color: orangered
+}
+
+/*
+body
+{
+background: url("../images/img3%20(1).png");
+background-size: cover;
+background-position: center;
+}
+*/
+.navbar-nav > li{
+  padding-left:30px;
+  padding-right:30px;
+}
+.centered {
+  position: absolute;
+  top: 75%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+   color: white;
+
+}
+
+.centered2 {
+/*  position: absolute;*/
+  
+  
+  
+   color: white;
+
+}
+
+
+
+
+#fsh
+{
+    font-family: 'Merriweather', serif;
+    font-size: 45px;
+}
+#fsh2
+{
+    font-family: 'Merriweather', serif;
+    font-size: 45px;
+    
+}
+#fshf
+{
+    font-family: 'Merriweather', serif;
+}
+#fsp
+{
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    text-align: center;
+    
+}
+#fsp2
+{
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    text-align: center;
+    
+}
+#yel
+{
+    color: orangered;
+}
+#buts
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 275px;
+    text-align: center;
+}
+#fontsyl
+{
+font-family: 'Open Sans', sans-serif;
+
+}
+.nav-link
+{
+    font-size: 18px;
+}
+
+:root {
+  --mainColor: #dc3545;
+}
+
+
+#ho {
+  background:
+     linear-gradient(
+       to right,
+       var(--mainColor) 0%,
+       var(--mainColor) 5px,
+       transparent 5px
+     );
+    background-repeat: repeat-x;
+    background-size: 100%;
+  color: #000;
+  padding-left: 10px;
+  text-decoration: none;
+}
+
+#ho:hover {
+  background:
+     linear-gradient(
+       to right,
+       var(--mainColor) 0%,
+       var(--mainColor) 5px,
+       transparent
+     );
+}
+
+#center
+{
+    text-align: center;
+}
+
+#auf
+{
+    font-family: 'Philosopher', sans-serif;
+    color: orangered;
+}
+#hdf
+{
+  font-family: 'DM Serif Text', serif;  
+}
+#pff
+{
+    font-family: 'Open Sans', sans-serif;
+}
+#neom
+{
+    background: #dde1e7;
+/*    box-shadow: -3px -3px -5px #ffffff90, 3px 3px 15px #00000090;*/
+/*
+    background-color:rgb(215,215,215);
+    box-shadow: -3px -3px 5px #dc3545, 3px 3px 15px #dc3545;
+*/
+/*    background: #FFF7EF;*/
+}
+#neom1
+{
+   
+    
+}
+.centered2 {
+  position: absolute;
+  top: 75%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+   color: white;
+    
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.vbanner
+{
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+.hbanner
+{
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+.vbanner img
+{
+    width: 100%;
+    opacity: 60%;
+}
+.hbanner img
+{
+    width: 100%;
+/*    opacity: 60%;*/
+    height: 90%;
+}
+.vhead
+{
+   position: absolute;
+   top: 8%;
+    right: 5%;
+   width: 100%;
+   text-align: center;
+    color: orangered;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 1.7em;
+    
+}
+.hhead
+{
+   position: absolute;
+   top: 30%;
+    right: 19%;
+   width: 100%;
+   text-align: center;
+    color: white;
+    font-family: 'Merriweather', serif;
+    font-size: 45px;
+    
+}
+.vhead2
+{
+   position: absolute;
+   top: 19%;
+    right: 5%;
+   width: 100%;
+   text-align: center;
+   font-family: 'DM Serif Text', serif;
+    color: black;
+    font-style:oblique;
+    
+}
+.ahead
+{
+   position: absolute;
+   top: 30%;
+    right: 19%;
+   width: 100%;
+   text-align: center;
+    color: white;
+    font-family: 'Merriweather', serif;
+    font-size: 45px;
+    
+}
+.ahead2
+{
+   position: absolute;
+   top: 43%;
+    right:19%;
+   width: 100%;
+   text-align: center;
+    font-family: 'Merriweather', serif;
+    color: white;
+    font-size: 25px;
+    
+}
+.hhead2
+{
+   position: absolute;
+   top: 45%;
+    right: 21%;
+    width: 100%;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    
+    
+}
+#videoedit
+{
+    position: absolute;
+    top: 33%;
+    right: 30%;
+    width: 50%;
+    height: 50%;
+    
+}
+.nheads
+{
+    position: absolute;
+    text-align: center;
+    left: 39%;
+    font-family: 'DM Serif Text', serif;
+}
+#sb1 {
+  border-radius: 4px;
+  background-color: #dc3545;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 16px;
+  padding: 10px;
+  width: 100px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+#sb1 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+#sb1 span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+#sb1:hover span {
+  padding-right: 25px;
+}
+
+#sb1:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+#teststyle{
+   font-family: 'DM Serif Text', serif;
+}
+#smstyle
+{
+   font-family: 'Philosopher', sans-serif;
+    color: orangered;
+}
+#follstyle
+{
+    font-size: 35px;
+    font-family: 'DM Serif Text', serif;
+}
+
+.shadow:hover
+{
+background-color: #ffffff;
+border-radius: 5px;
+border: 1px solid black;
+}
+
+#teamfont
+{
+    font-size: 44px;
+    font-family: 'DM Serif Text', serif;
+}
+#teampara
+{
+    font-family: 'Philosopher', sans-serif;
+}
+
+#regis
+{
+    font-size: 30px;
+     font-family: 'DM Serif Text', serif;
+}
